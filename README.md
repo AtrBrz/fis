@@ -41,8 +41,7 @@ In the following figure, the Membership function of the Final Risk is reported.
 
 ## Replication Package
 <!-- @Atrin: describe here the instructions on how to replicate the work (how to run the models) --> 
-in this work, we used mamdani fuzzy inference methode in matlab software to create the intelligent model system to assess the manufacturing system’s level of risk. Five Fuzzy Inference Systems (FISs) are arranged in two layers of the model to assess the risk associated with a system that produces wheat flour products.Four FISs evaluate risks based on FMEA criteria (Occurrence, Severity, and Detectability) with expert input. The
-outputs, covering Physical, Chemical, Biological, and Environmental Failures, are then integrated for overall system ranking.in the second layer all risks is the input of the model and the output shows the final risk in the manufacturing system based on integration of all IF-THEN rules.
+in this work, we used mamdani fuzzy inference methode in matlab software to create the intelligent model system to assess the manufacturing system’s level of risk. Five Fuzzy Inference Systems (FISs) are arranged in two layers of the model to assess the risk associated with a system that produces wheat flour products.Four FISs evaluate risks based on FMEA criteria (Occurrence, Severity, and Detectability) with expert input. The outputs, covering Physical, Chemical, Biological, and Environmental Failures, are then integrated for overall system ranking.in the second layer all risks is the input of the model and the output shows the final risk in the manufacturing system based on integration of all IF-THEN rules.replication folder shows fis file related to physical and environmental risk in our wheat flour manufacturing system based on all details and information of my work and IF-THEN rules.
 
 
 ## License
