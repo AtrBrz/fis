@@ -13,7 +13,9 @@ outputs, covering Physical, Chemical, Biological, and Environmental Failures, ar
 
 ## Additional Material
 <!-- @Atrin: put some description of the figures and the figures as well -->
-figure Chemical Risk.Occurence show the first criteria(input) of whear flour product in manufacturing Systems for Chemical Risk
+-figure Chemical Risk.Occurence shows the fuzzy model for chemical risk. the model consists of 3 inputs which are occurence, severity and detectability and the output of model is chemical risk the implication method is Min and the aggregation method is Max and the defuzzification is centroid.
+-figure chemical_surface shows the surface viewer of chemical risk. when the occurence and detectability are very small, the chemical risk is minor and when the occurence and detectability are very high the chemical risk is important.  
+-figure environmental_rule shows the rule viewer of environmental risk it means that for example when occurence is 65 percent and severity 70 and detectability is 60 percent the environmental risk is 70 percent. 
 
 
 In the following figure, the Membership function of the Final Risk is reported.
