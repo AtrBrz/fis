@@ -4,17 +4,16 @@ This repository contains the MATLAB models serving as a replication package for 
 
 ## Context
 <!-- @Atrin: here a breif summary of the scope and the context of the paper (no more than 4 lines) --> 
-
-
-## Structure of the repository
-The repository is structured in the following folders:
+The goal of this research is to create an intelligent system to assess the manufacturing system’s level of risk for wheat flour products. Five Fuzzy Inference Systems (FISs) are arranged in two layers of the model to assess the risk associated with a system that produces wheat flour products.Four FISs evaluate risks based on FMEA criteria (Occurrence, Severity, and Detectability) with expert input. The
+outputs, covering Physical, Chemical, Biological, and Environmental Failures, are then integrated for overall system ranking.in the second layer all risks is the input of the model and the output shows the final risk in the manufacturing system based on integration of all IF-THEN rules.
 <!-- @Atrin: describe the content of the folders --> 
 * *[replication/edcc](replication/edcc/README.md)*: replication package for a scientific paper submitted to EDCC 2024.
-
-
+  first folder related to all figures and diagrams( Membership functions, rule viewer, surface viewer,..)
+  and the second one related to the fis file including all details and information of my work and IF-THEN rules.
 
 ## Additional Material
 <!-- @Atrin: put some description of the figures and the figures as well -->
+figure Chemical Risk.Occurence show the first criteria(input) of whear flour product in manufacturing Systems for Chemical Risk
 
 
 In the following figure, the Membership function of the Final Risk is reported.
@@ -23,7 +22,8 @@ In the following figure, the Membership function of the Final Risk is reported.
 
 ## Replication Package
 <!-- @Atrin: describe here the instructions on how to replicate the work (how to run the models) --> 
-
+in this work, we used matlab software to create the intelligent model system to assess the manufacturing system’s level of risk. Five Fuzzy Inference Systems (FISs) are arranged in two layers of the model to assess the risk associated with a system that produces wheat flour products.Four FISs evaluate risks based on FMEA criteria (Occurrence, Severity, and Detectability) with expert input. The
+outputs, covering Physical, Chemical, Biological, and Environmental Failures, are then integrated for overall system ranking.in the second layer all risks is the input of the model and the output shows the final risk in the manufacturing system based on integration of all IF-THEN rules.
 
 
 ## License
