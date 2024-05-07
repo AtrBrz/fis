@@ -18,7 +18,7 @@ The repository is structured in the following folders:
 
 
 In the following figure, the Membership function of the Final Risk is reported.
-![Membership function for the final risk](images/final risk.Membership.jpg)
+![Membership function for the final risk](./images/final risk.Membership.jpg)
 
 
 ## Replication Package
