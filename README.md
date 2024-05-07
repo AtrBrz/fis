@@ -24,7 +24,7 @@ outputs, covering Physical, Chemical, Biological, and Environmental Failures, ar
 
 -figure finalriskmembership shows the membership function of final risk in our manufacturing system based on 5 different categories(poor, fair, average, good and excellent. our fis model based on 5 membership functions that we selected trapezodial in the range of 0-100 percent.
 
--figure (mem2, mem3, membb, membership and general) show the trapezidial membership function for physical risk based on 3 criteria(occurence, severity, detectability) in 5 diffrent categories: very small, small, medium, high, very high.
+-figure (mem2, mem3, membb, membership and general) show the trapezodial membership function for physical risk based on 3 criteria(occurence, severity, detectability) in 5 diffrent categories: very small, small, medium, high, very high.
 
 -figure physicalriskdetectability shows the fuzzy model for physical risk. the model consists of 3 inputs which are occurence, severity and detectability and the output of the model is physical risk. the implication method is Min and the aggregation method is Max and the defuzzification is centroid.
 
