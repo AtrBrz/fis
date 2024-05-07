@@ -15,8 +15,11 @@ outputs, covering Physical, Chemical, Biological, and Environmental Failures, ar
 <!-- @Atrin: put some description of the figures and the figures as well -->
 -figure Chemical Risk.Occurence shows the fuzzy model for chemical risk. the model consists of 3 inputs which are occurence, severity and detectability and the output of model is chemical risk the implication method is Min and the aggregation method is Max and the defuzzification is centroid.
 
--figure chemical_surface shows the surface viewer of chemical risk. when the occurence and detectability are very small, the chemical risk is minor and when the occurence and detectability are very high the chemical risk is important.  
+-figure chemical_surface shows the surface viewer of chemical risk. when the occurence and detectability are very small, the chemical risk is minor and when the occurence and detectability are very high the chemical risk is important. 
+
 -figure environmental_rule shows the rule viewer of environmental risk it means that for example when occurence is 65 percent and severity 70 and detectability is 60 percent the environmental risk is 70 percent. 
+
+-figure biological_surface shows the surface viewer of biological risk. when the occurence and severity are very small, the biological risk is minor and when the occurence and severity are very high the biological risk is important.
 
 -figure final risk shows the mamdani fuzzy model based on 4 different risks input( Physical, Biological, Chemical, Environmental) and the output shows the final risk in the system.the defuzzification is centroid and implication is min and (and, or) methode is min-max.
 
