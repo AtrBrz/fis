@@ -7,7 +7,7 @@ This repository contains the MATLAB models serving as a replication package for 
 The goal of this research is to create an intelligent system to assess the manufacturing system’s level of risk for wheat flour products. Five Fuzzy Inference Systems (FISs) are arranged in two layers of the model to assess the risk associated with a system that produces wheat flour products.Four FISs evaluate risks based on FMEA criteria (Occurrence, Severity, and Detectability) with expert input. The
 outputs, covering Physical, Chemical, Biological, and Environmental Failures, are then integrated for overall system ranking.in the second layer all risks is the input of the model and the output shows the final risk in the manufacturing system based on integration of all IF-THEN rules.
 <!-- @Atrin: describe the content of the folders --> 
-* *[replication/edcc](replication/edcc/README.md)*: replication package for a scientific paper submitted to KES 2024.
+* *[replication/](replication/README.md)*: replication package for a scientific paper submitted to KES 2024.
 
   first folder related to all figures and diagrams( Membership functions, rule viewer, surface viewer,..)
   and the second one related to the fis file including all details and information of my work and IF-THEN rules.
